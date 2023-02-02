@@ -13,7 +13,7 @@ mkdir -p ~/.config/tym
 Then download theme with curl:
 
 ``` bash
-curl https://raw.githubusercontent.com/gnsfujiwara/base16-tym/main/themes/base16-default-dark.lua > ~/.config/tym/theme.lua
+curl https://raw.githubusercontent.com/gnsfujiwara/base16-tym/main/themes/<theme-name>.lua > ~/.config/tym/theme.lua
 ```
 
 > This is just an example, do as you see fit.
