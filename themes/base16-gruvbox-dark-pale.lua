@@ -14,7 +14,6 @@ return {
   color_bold = '#dab997',
   color_cursor = '#dab997',
   color_cursor_foreground = '#262626',
-  color_highlight = '#4e4e4e',
 
   -- Black
   color_0 = '#262626',
