@@ -1,18 +1,18 @@
 --[[
 
 Base16 Mountain
-Scheme author: gnsfujiwara (https://github.com/gnsfujiwara) based on Mountain Theme (https://github.com/mountain-theme/Mountain)
+Scheme author: gnsfujiwara (https://github.com/gnsfujiwara)
 Template author: gnsfujiwara (https://github.com/gnsfujiwara)
 
 --]]
 
 return {
   -- Special
-  color_foreground = '#f0f0f0',
+  color_foreground = '#cacaca',
   color_background = '#0f0f0f',
   color_window_background = '#0f0f0f',
-  color_bold = '#f0f0f0',
-  color_cursor = '#f0f0f0',
+  color_bold = '#cacaca',
+  color_cursor = '#cacaca',
   color_cursor_foreground = '#0f0f0f',
 
   -- Black
@@ -44,6 +44,6 @@ return {
   color_14 = '#8aabac',
 
   -- White
-  color_7 = '#f0f0f0',
-  color_15 = '#cacaca',
+  color_7 = '#cacaca',
+  color_15 = '#f0f0f0',
 }
