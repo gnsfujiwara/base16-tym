@@ -1,7 +1,7 @@
 --[[
 
 Base16 Rosé Pine Moon
-Scheme author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+Scheme author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 Template author: gnsfujiwara (https://github.com/gnsfujiwara)
 
 --]]
@@ -17,33 +17,33 @@ return {
 
   -- Black
   color_0 = '#232136',
-  color_8 = '#59546d',
+  color_8 = '#6e6a86',
 
   -- Red
-  color_1 = '#ecebf0',
-  color_9 = '#ecebf0',
+  color_1 = '#eb6f92',
+  color_9 = '#eb6f92',
 
   -- Green
-  color_2 = '#ea9a97',
-  color_10 = '#ea9a97',
+  color_2 = '#3e8fb0',
+  color_10 = '#3e8fb0',
 
   -- Yellow
-  color_3 = '#f6c177',
-  color_11 = '#f6c177',
+  color_3 = '#ea9a97',
+  color_11 = '#ea9a97',
 
   -- Blue
-  color_4 = '#9ccfd8',
-  color_12 = '#9ccfd8',
+  color_4 = '#c4a7e7',
+  color_12 = '#c4a7e7',
 
   -- Magenta
-  color_5 = '#c4a7e7',
-  color_13 = '#c4a7e7',
+  color_5 = '#f6c177',
+  color_13 = '#f6c177',
 
   -- Cyan
-  color_6 = '#3e8fb0',
-  color_14 = '#3e8fb0',
+  color_6 = '#9ccfd8',
+  color_14 = '#9ccfd8',
 
   -- White
   color_7 = '#e0def4',
-  color_15 = '#d9d7e1',
+  color_15 = '#56526e',
 }

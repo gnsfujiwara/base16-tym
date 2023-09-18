@@ -1,7 +1,7 @@
 --[[
 
 Base16 Rosé Pine Dawn
-Scheme author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+Scheme author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 Template author: gnsfujiwara (https://github.com/gnsfujiwara)
 
 --]]
@@ -20,30 +20,30 @@ return {
   color_8 = '#9893a5',
 
   -- Red
-  color_1 = '#1f1d2e',
-  color_9 = '#1f1d2e',
+  color_1 = '#b4637a',
+  color_9 = '#b4637a',
 
   -- Green
-  color_2 = '#d7827e',
-  color_10 = '#d7827e',
+  color_2 = '#286983',
+  color_10 = '#286983',
 
   -- Yellow
-  color_3 = '#ea9d34',
-  color_11 = '#ea9d34',
+  color_3 = '#d7827e',
+  color_11 = '#d7827e',
 
   -- Blue
-  color_4 = '#56949f',
-  color_12 = '#56949f',
+  color_4 = '#907aa9',
+  color_12 = '#907aa9',
 
   -- Magenta
-  color_5 = '#907aa9',
-  color_13 = '#907aa9',
+  color_5 = '#ea9d34',
+  color_13 = '#ea9d34',
 
   -- Cyan
-  color_6 = '#286983',
-  color_14 = '#286983',
+  color_6 = '#56949f',
+  color_14 = '#56949f',
 
   -- White
   color_7 = '#575279',
-  color_15 = '#26233a',
+  color_15 = '#cecacd',
 }
